@@ -100,7 +100,7 @@
       </p>
     </td>
     <td width="50%">
-      <h4>🍽️ HTF-I04</h4>
+      <h4>ROUTIFY</h4>
       <p>Full-stack solution using Python & JavaScript for intelligent web automation and backend processing.</p>
       <p>
         <a href="https://github.com/11Akhilesh/HTF-I04">
