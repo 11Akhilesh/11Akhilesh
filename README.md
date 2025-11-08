@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/11Akhilesh?tab=followers"><img src="https://img.shields.io/github/followers/11Akhilesh?label=Followers&style=for-the-badge"></a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=11Akhilesh.profile"><img src="https://visitor-badge.laobi.icu/badge?page_id=11Akhilesh.profile&style=for-the-badge" alt="visitors"></a>
   <a href="https://www.linkedin.com/in/akhilesh-suvarna-364853265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:akhileshsm11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
