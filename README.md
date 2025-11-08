@@ -13,7 +13,7 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <!-- ABOUT -->
-<h3 align="center">💡 About Me</h3>
+<h3 align="center">About Me</h3>
 <p align="center">
   <b>Currently:</b> Building <i>SIGMA OS</i> — an AI-integrated automation OS with micro-agents, decisioning, and seamless UX.<br/>
   <b>Learning:</b> ML systems integration, orchestration, and scalable cloud patterns.<br/>
@@ -91,7 +91,7 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h4>🔥 SIGMA OS</h4>
+      <h4>SIGMA OS</h4>
       <p>AI-integrated micro-agents that automate tasks, make decisions, and learn over time — full-stack + advanced AI orchestration.</p>
       <p>
         <a href="https://github.com/Pavan1290/SIGMA">
@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td>
-      <h4>🛍️ Cloth Store Apps</h4>
+      <h4>Cloth Store Apps</h4>
       <p>Cross-platform e-commerce built with Electron & React for smooth, responsive UX.</p>
       <p>
         <a href="https://github.com/saidev20/cloth_store_app"><img src="https://img.shields.io/badge/App%201-000?style=for-the-badge&logo=github" /></a>
@@ -119,7 +119,7 @@
       </p>
     </td>
     <td>
-      <h4>📅 TIMETABLE DBMS</h4>
+      <h4>TIMETABLE DBMS</h4>
       <p>Efficient scheduling tool built with Python and strong DBMS principles.</p>
       <p>
         <a href="https://github.com/Pavan1290/TIMETABLE_DBMS">
@@ -130,7 +130,7 @@
   </tr>
   <tr>
     <td>
-      <h4>📦 1aws</h4>
+      <h4>1aws</h4>
       <p>First DevOps step — deploying a web service with Docker on AWS.</p>
       <p>
         <a href="https://github.com/11Akhilesh/1aws">
@@ -139,7 +139,7 @@
       </p>
     </td>
     <td>
-      <h4>🧠 More Projects</h4>
+      <h4>More Projects</h4>
       <p>Dive into my repos for experiments, utilities, and learning logs.</p>
       <p>
         <a href="https://github.com/11Akhilesh?tab=repositories">
@@ -151,7 +151,7 @@
 </table>
 
 <!-- STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=11Akhilesh&theme=monokai&hide_border=true" alt="Streak Stats" />
   <br/>
@@ -162,7 +162,7 @@
 
 <!-- DETAILS (OPTIONAL EXPAND) -->
 <details>
-  <summary><b>📚 Detailed Skill Map</b></summary>
+  <summary><b>Detailed Skill Map</b></summary>
 
   - **Programming:** C/C++, Python, JavaScript, HTML/CSS, R  
   - **Databases:** SQL, MongoDB  
